@@ -1,0 +1,14 @@
+package sample;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class hangmantest1 {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
